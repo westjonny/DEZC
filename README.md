@@ -1,2 +1,2 @@
 # DEZC
-Files from DataEngineeringZoomeCamp
+Files from DataEngineeringZoomCamp
